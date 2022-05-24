@@ -1,5 +1,6 @@
 .container {
   padding: 0 2rem;
+  background-color: turquoise;
 }
 
 .main {
@@ -106,6 +107,10 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.marginTop200 {
+  margin-top: 80px;
 }
 
 @media (max-width: 600px) {
